@@ -1,4 +1,4 @@
-##XAI Final Assignment
+# XAI Final Assignment
 This github repository contains the python file for th XAI final assignment.
 
 **Cloning GIT repository**
