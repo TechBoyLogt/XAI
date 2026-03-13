@@ -1,4 +1,3 @@
-!pip install streamlit pandas plotly shap matplotlib ucimlrepo scikit-learn
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
