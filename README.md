@@ -5,8 +5,7 @@ This project demonstrates how to explain machine learning predictions for diabet
 - SHAP (feature contribution explanations)
 - DiCE (counterfactual explanations)
 
-The app is built with Streamlit and uses the Pima Indians Diabetes dataset.
-
+The app is built with Streamlit and uses the [Pima Indians Diabetes dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 ## Project Overview
 
 The dashboard trains a Logistic Regression model on the dataset, predicts diabetes risk for a selected patient, and then explains the prediction using:
